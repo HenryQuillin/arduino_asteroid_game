@@ -1,4 +1,4 @@
-# arduino_asteroid_game
+# Arduino Asteroid Game
 This is a simple game using the MAX72XX LED-Matrix as display, two micro switches as buttons and an active buzzer for a sound effect.  
 ## Final Game: <br>
 ![Arduino and breadboard](https://user-images.githubusercontent.com/46876350/112866209-26bb7d80-907f-11eb-86a6-278b1cb7c809.jpeg)
