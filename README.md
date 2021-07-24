@@ -1,5 +1,5 @@
 # Arduino Asteroid Game
-This is a simple game using the MAX72XX LED-Matrix as display, two micro switches as buttons and an active buzzer for a sound effect.  
+This is a handheld asteroids game built with C++, a MAX72XX LED-Matrix display, two micro switches as buttons and an active buzzer for sound effects.
 ## Final Game: <br>
 ![Arduino and breadboard](https://user-images.githubusercontent.com/46876350/112866209-26bb7d80-907f-11eb-86a6-278b1cb7c809.jpeg)
 ## Fritzing breadboard design <br>
